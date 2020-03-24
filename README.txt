@@ -3,7 +3,7 @@ html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-This is Aerial, a single page, single screen responsive site template. Real simple.
+This is the updated Aerial, a single page, single screen responsive site template. Real simple.
 Makes heavy use of CSS animation (something I've been messing with a lot lately).
 Should work well as a landing page that just directs folks to your stuff elsewhere
 on the www. Sass sources are also included, so if you've never used Sass and you're
